@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="ここにサイト説明を入れます">
 <meta name="keywords" content="キーワード１,キーワード２,キーワード３,キーワード４,キーワード５">
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
 <script src="<?php echo get_template_directory_uri(); ?>/js/openclose.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/fixmenu_pagetop.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/ddmenu_min.js"></script>
@@ -93,24 +93,9 @@
 </section>
 
 <section id="new">
-<h2>更新情報・お知らせ</h2>
-<dl>
-<dt>2020/07/21</dt>
-<dd>tp_biz54配布開始。<span class="newicon">NEW</span></dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-<dt>20XX/00/00</dt>
-<dd>サンプルテキスト。サンプルテキスト。サンプルテキスト。</dd>
-</dl>
+
 </section>
+
 
 <section>
 
